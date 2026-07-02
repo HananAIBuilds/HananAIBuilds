@@ -12,4 +12,4 @@
 - 💰 [Personal AI Finance Manager](https://github.com/HananAIBuilds/Personal-AI-Finance-Manager) — Random Forest, deployed on Streamlit Cloud
 
 📫 Open to full-time AI Engineer opportunities
-🔗 [LinkedIn](your-linkedin-url-here)
+🔗 [LinkedIn](https://www.linkedin.com/in/abdul-hanan-0772952b4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
