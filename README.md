@@ -1,4 +1,4 @@
-# Hi, I'm Abdul Hanan 👋
+y# Hi, I'm Abdul Hanan 👋
 
 **AI Engineer** building and deploying end-to-end ML/DL systems — from statistical rigor (data leakage detection, hypothesis testing) to production deployment (Streamlit, FastAPI).
 
@@ -8,7 +8,7 @@
 
 ### 🔗 Best places to start:
 - 🎰 [Aviator Crash Game — ML Signal Analysis](https://github.com/HananAIBuilds/aviator-ml-analysis) — Statistical rigor: caught data leakage, AUC 93%→50%
-- 👗 [Fashion Recommendation System](https://github.com/HananAIBuilds/Fashion-Recomended-Sytsem) — CNN + Residual Blocks + Attention
+- 👗 [Fashion Recommendation System](https://github.com/HananAIBuilds/Fashion-Recommendation-System) — CNN + Residual Blocks + Attention
 - 💰 [Personal AI Finance Manager](https://github.com/HananAIBuilds/Personal-AI-Finance-Manager) — Random Forest, deployed on Streamlit Cloud
 
 📫 Open to full-time AI Engineer opportunities
