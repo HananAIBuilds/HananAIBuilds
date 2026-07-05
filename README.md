@@ -14,4 +14,4 @@
 - 💰 **[Personal AI Finance Manager](https://github.com/HananAIBuilds/Personal-AI-Finance-Manager)** — Random Forest, deployed on Streamlit Cloud.
 - 📄 [AI File Query Tool (V1)](https://github.com/HananAIBuilds/ai-file-query-tool) — Multi-format LLM-powered Q&A (pre-RAG version, superseded by DocuChat AI)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/abdul-hanan-0772952b4)
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/abdul-hanan-0772952b4)
